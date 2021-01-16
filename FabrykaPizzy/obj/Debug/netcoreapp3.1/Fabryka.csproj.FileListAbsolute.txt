@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\bin\Debug\netcoreapp3.1\Fabryka.exe
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\bin\Debug\netcoreapp3.1\Fabryka.deps.json
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\bin\Debug\netcoreapp3.1\Fabryka.runtimeconfig.json
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\bin\Debug\netcoreapp3.1\Fabryka.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\bin\Debug\netcoreapp3.1\Fabryka.dll
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\bin\Debug\netcoreapp3.1\Fabryka.pdb
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\obj\Debug\netcoreapp3.1\Fabryka.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\obj\Debug\netcoreapp3.1\Fabryka.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\obj\Debug\netcoreapp3.1\Fabryka.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\obj\Debug\netcoreapp3.1\Fabryka.dll
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\obj\Debug\netcoreapp3.1\Fabryka.pdb
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\obj\Debug\netcoreapp3.1\Fabryka.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Fabryka\Fabryka\obj\Debug\netcoreapp3.1\Fabryka.genruntimeconfig.cache
