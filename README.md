@@ -1,3 +1,5 @@
-# FabrykaPizzy
-# Fabryka by Dan
-To jest zadanie wykonane na zajęcia z programowania obiektowego.
+# Pizza Factory by Dan
+## Welcome to my repository!
+### I present to you an assignment on the subject of programming.
+
+## ▼ Enjoyable browsing ▼
